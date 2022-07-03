@@ -1,0 +1,12 @@
+INFO 2022-07-03 23:07:31,670 root  i have started logging my codes 
+INFO 2022-07-03 23:07:31,670 root  we are inside class String1 
+INFO 2022-07-03 23:07:31,670 root  we are creating methods inside class strings and 
+    implementing exception handling along with logging.  
+INFO 2022-07-03 23:07:31,670 root  String with jump 3 is h   r tnrrmglsnimeNGyosi dtfco:  
+INFO 2022-07-03 23:07:31,670 root  Reversed String  is noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht:  
+INFO 2022-07-03 23:07:31,670 root  Splitted uppercased string is  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']:  
+INFO 2022-07-03 23:07:31,670 root  Lowercased string is  this is my first python programming class and i am learning python string and its function:  
+INFO 2022-07-03 23:07:31,686 root  Expandtabs string is  My      name    is      Shubham Verma   and     I       want    to      become  a       data    scientist:  
+INFO 2022-07-03 23:07:31,686 root  Expandtabs string is  ['o', 'i', 'a', 'i', 'e', 'e', 'i', 'e', 'e', 'e', 'e', 'e', 'a', 'u', 'o', 'e', 'o', 'a', 'i', 'a', 'u', 'a', 'e']:  
+INFO 2022-07-03 23:07:31,686 root  strip, left and right strip of string is  ShubhaM, ShubhaM      and     ShubhaM:  
+INFO 2022-07-03 23:07:31,686 root  New string is is  ShubhaMVerma:  

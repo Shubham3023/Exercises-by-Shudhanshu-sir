@@ -1,0 +1,51 @@
+INFO 2022-07-04 00:13:59,614 root  This is my list class 
+INFO 2022-07-04 00:13:59,614 root  Reversed list  is [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]:  
+INFO 2022-07-04 00:13:59,614 root  required output  is 234 and 234:  
+INFO 2022-07-04 00:13:59,614 root  required output  is 456 :  
+INFO 2022-07-04 00:13:59,614 root  required output  is [23, 456, 67, 8, 78, 78] and [345, 56, 87, 8, 98, 9] :  
+INFO 2022-07-04 00:13:59,614 root  required output  is sudh  :  
+INFO 2022-07-04 00:13:59,614 root  required output  is ['key1', 234] and ['sudh', [23, 45, 656]] :  
+INFO 2022-07-04 00:13:59,614 root  List entities are: [[1, 2, 3, 4], ['ineuron', 'data science ']] 
+INFO 2022-07-04 00:13:59,614 root  dict entities are: [{'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}] 
+INFO 2022-07-04 00:13:59,614 root  tuple entities are: [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)] 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 1 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 2 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 3 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 4 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 2 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 3 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 4 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 5 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 6 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 3 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 4 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 5 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 6 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 7 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 45 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 4 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 5 
+INFO 2022-07-04 00:13:59,614 root  numeric data from list, tuple and set is 23 
+INFO 2022-07-04 00:13:59,614 root  numeric data from dict is 3 and 6 
+INFO 2022-07-04 00:13:59,614 root  numeric data from dict is 7 and 8 
+INFO 2022-07-04 00:13:59,614 root  total numeric data is [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8] 
+INFO 2022-07-04 00:13:59,614 root  Summation, multiplication and even number list is 156, 908605071360000 and [2, 4, 2, 4, 6, 4, 6, 4, 6, 8] 
+INFO 2022-07-04 00:13:59,614 root  count of 1 in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of 2 in list is 2 
+INFO 2022-07-04 00:13:59,614 root  count of 3 in list is 4 
+INFO 2022-07-04 00:13:59,614 root  count of 4 in list is 4 
+INFO 2022-07-04 00:13:59,614 root  count of 5 in list is 3 
+INFO 2022-07-04 00:13:59,614 root  count of 6 in list is 3 
+INFO 2022-07-04 00:13:59,614 root  count of 7 in list is 2 
+INFO 2022-07-04 00:13:59,614 root  count of sudh in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of data science  in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of k3 in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of 8 in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of 45 in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of k1 in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of kumar in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of 23 in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of k2 in list is 1 
+INFO 2022-07-04 00:13:59,614 root  count of ineuron in list is 2 
+INFO 2022-07-04 00:13:59,614 root  Keys in dict of list is: ['k1', 'k2', 'k3', 3, 7] and no of keys is:  5 
+INFO 2022-07-04 00:13:59,614 root  String element in list is ['ineuron', 'data science ', 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar'] 
