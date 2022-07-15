@@ -1,0 +1,12 @@
+INFO 2022-07-15 21:24:42,718 root importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:24:42,733 root Creating constructor in Basic_code class
+INFO 2022-07-15 21:24:42,733 root Creating methods in Basic_code class
+INFO 2022-07-15 21:24:42,733 root Inheriting class Basic_code in class cloud_mentor
+INFO 2022-07-15 21:24:42,733 root Creating objects for mentors in Cloud_mentors class
+INFO 2022-07-15 21:24:42,733 root 
+Mentor: Sachin Agarwal,
+Salary per day: 1000,
+Current_Course: AWS Cloud Masters
+
+INFO 2022-07-15 21:24:42,733 root 
+Total salary of Sachin Agarwal is: Rs. 30000

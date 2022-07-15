@@ -1,0 +1,13 @@
+INFO 2022-07-15 21:26:07,632 root importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:26:07,632 root Creating constructor in Basic_code class
+INFO 2022-07-15 21:26:07,632 root Creating methods in Basic_code class
+INFO 2022-07-15 21:26:07,632 root Inheriting class Basic_code in class Marketing_mentor
+INFO 2022-07-15 21:26:07,632 root Creating objects for mentors in Cloud_mentors class
+INFO 2022-07-15 21:26:07,632 root Details and salary of Marketing Mentors is as below: 
+INFO 2022-07-15 21:26:07,632 root 
+Mentor: Amresh Bharti,
+Salary per day: 2000,
+Current_Course: Youtube Mastery, Digital_Marketing_Bootcamp
+
+INFO 2022-07-15 21:26:07,632 root 
+Total salary of Amresh Bharti is: Rs. 60000

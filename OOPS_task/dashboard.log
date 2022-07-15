@@ -1,0 +1,992 @@
+INFO 2022-07-15 21:41:48,141 Creating a dashboard for displaying all Class info on single page
+INFO 2022-07-15 21:41:48,141 Displaying Students and Mentors details by importing required packages, modules and classes
+INFO 2022-07-15 21:41:48,141 importing class 'Basiccode_students' from Module 'basic_code_students' and package 'students'
+INFO 2022-07-15 21:41:48,141 Creating class Basiccode_students
+INFO 2022-07-15 21:41:48,141 Creating constructor in class Basiccode_students
+INFO 2022-07-15 21:41:48,141 Creating Methods in class Basiccode_students
+INFO 2022-07-15 21:41:48,141 Importing objects from module 'datasci_mentors' and package 'mentors'
+INFO 2022-07-15 21:41:48,154 importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:41:48,154 Creating constructor in Basic_code class
+INFO 2022-07-15 21:41:48,154 Creating methods in Basic_code class
+INFO 2022-07-15 21:41:48,154 Inheriting class Basic_code in class DS_mentor
+INFO 2022-07-15 21:41:48,154 Creating objects for mentors in DS_mentors class
+INFO 2022-07-15 21:41:48,154 details and salary of Data science Mentors is as below: 
+INFO 2022-07-15 21:41:48,154 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Sudhanshu Kumar is: Rs. 120000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Krish Naik is: Rs. 90000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Sunny Chandra is: Rs. 60000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Shashank Mishra is: Rs. 30000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Saurav Agarwal is: Rs. 30000
+INFO 2022-07-15 21:41:48,154 Inheriting class 'Basiccode_students' in class 'FSDS_students' 
+INFO 2022-07-15 21:41:48,154 Creating objects for FSDS students in FSDS_students class
+INFO 2022-07-15 21:41:48,154 Below is an example of Method Overriding
+INFO 2022-07-15 21:41:48,154 Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM
+INFO 2022-07-15 21:41:48,154 Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM
+INFO 2022-07-15 21:41:48,154 Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM
+INFO 2022-07-15 21:41:48,154 Students details is as below: 
+INFO 2022-07-15 21:41:48,154 
+Student: Shubham,
+Course opted: FSDS, DSA_community,
+No of Course: 2,
+Course_fee per Course: 3000,
+Qualification: B.E (Mechanical)
+
+INFO 2022-07-15 21:41:48,154 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,154 Students fee details is as below:
+INFO 2022-07-15 21:41:48,154 
+Total Fees paid by Shubham is: Rs. 6000
+INFO 2022-07-15 21:41:48,154 
+Total Fees paid by Sameer is: Rs. 2000
+INFO 2022-07-15 21:41:48,154 Mentor details for DS courses is as below:
+INFO 2022-07-15 21:41:48,154 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:41:48,154 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:41:48,154 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+
+INFO 2022-07-15 21:41:48,154 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+
+INFO 2022-07-15 21:41:48,154 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+
+INFO 2022-07-15 21:41:48,154 
+Student: Shubham,
+Course opted: FSDS, DSA_community,
+No of Course: 2,
+Course_fee per Course: 3000,
+Qualification: B.E (Mechanical)
+
+INFO 2022-07-15 21:41:48,154 
+Total Fees paid by Shubham is: Rs. 6000
+INFO 2022-07-15 21:41:48,154 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,154 
+Total Fees paid by Sameer is: Rs. 2000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Sudhanshu Kumar is: Rs. 120000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Krish Naik is: Rs. 90000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Sunny Chandra is: Rs. 60000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Shashank Mishra is: Rs. 30000
+INFO 2022-07-15 21:41:48,154 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+
+INFO 2022-07-15 21:41:48,154 
+Total salary of Saurav Agarwal is: Rs. 30000
+INFO 2022-07-15 21:41:48,154 importing class Basiccode_students from Module basic_code_students and package students
+INFO 2022-07-15 21:41:48,154 Importing objects from module 'java_mentors' and package 'mentors'
+INFO 2022-07-15 21:41:48,170 importing class DS_mentor from Module datasci_mentors and package mentors
+INFO 2022-07-15 21:41:48,170 Inheriting class Basic_code in class Java_mentor
+INFO 2022-07-15 21:41:48,170 creating objects in class java_mentors
+INFO 2022-07-15 21:41:48,170 Details and salary of Java Mentors is as below: 
+INFO 2022-07-15 21:41:48,170 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+
+INFO 2022-07-15 21:41:48,170 
+Total salary of Hitesh Choudhary is: Rs. 60000
+INFO 2022-07-15 21:41:48,170 
+Mentor: Shubham Waje,
+Salary per day: 1000,
+Current_Course: FSJSB
+
+INFO 2022-07-15 21:41:48,170 
+Total salary of Shubham Waje is: Rs. 30000
+INFO 2022-07-15 21:41:48,170 Importing objects from module 'dev_mentors' and package 'mentors'
+INFO 2022-07-15 21:41:48,170 importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:41:48,170 Inheriting class Basic_code in class Dev_mentor
+INFO 2022-07-15 21:41:48,170 Creating objects for mentors in Dev_mentors class
+INFO 2022-07-15 21:41:48,170 details and salary of Development Mentors is as below: 
+INFO 2022-07-15 21:41:48,170 
+Mentor: Sanjeevan Thorat,
+Salary per day: 1000,
+Current_Course: Blockchain_community
+
+INFO 2022-07-15 21:41:48,170 
+Total salary of Sanjeevan Thorat is: Rs. 30000
+INFO 2022-07-15 21:41:48,170 
+Mentor: Saksham Choudhary,
+Salary per day: 2000,
+Current_Course: CyberSec_community, Cybersec_Masters
+
+INFO 2022-07-15 21:41:48,170 
+Total salary of Saksham Choudhary is: Rs. 60000
+INFO 2022-07-15 21:41:48,170 Importing objects from module 'cloud_mentors' and package 'mentors'
+INFO 2022-07-15 21:41:48,170 importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:41:48,170 Inheriting class Basic_code in class cloud_mentor
+INFO 2022-07-15 21:41:48,170 Creating objects for mentors in Cloud_mentors class
+INFO 2022-07-15 21:41:48,170 
+Mentor: Sachin Agarwal,
+Salary per day: 1000,
+Current_Course: AWS Cloud Masters
+
+INFO 2022-07-15 21:41:48,170 
+Total salary of Sachin Agarwal is: Rs. 30000
+INFO 2022-07-15 21:41:48,170 Importing objects from module 'marketing_mentors' and package 'mentors'
+INFO 2022-07-15 21:41:48,170 importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:41:48,170 Inheriting class Basic_code in class Marketing_mentor
+INFO 2022-07-15 21:41:48,170 Creating objects for mentors in Cloud_mentors class
+INFO 2022-07-15 21:41:48,170 Details and salary of Marketing Mentors is as below: 
+INFO 2022-07-15 21:41:48,170 
+Mentor: Amresh Bharti,
+Salary per day: 2000,
+Current_Course: Youtube Mastery, Digital_Marketing_Bootcamp
+
+INFO 2022-07-15 21:41:48,170 
+Total salary of Amresh Bharti is: Rs. 60000
+INFO 2022-07-15 21:41:48,170 Inheriting class Basiccode_students in class Other_students
+INFO 2022-07-15 21:41:48,170 Creating objects for FSJSB students in Other_students class
+INFO 2022-07-15 21:41:48,170 Creating objects for Development students in Other_students class
+INFO 2022-07-15 21:41:48,170 Creating objects for cloud students in Other_students class
+INFO 2022-07-15 21:41:48,170 Creating objects for Marketing students in Other_students class
+INFO 2022-07-15 21:41:48,170 Class Timings for all classes are mentioned Below
+INFO 2022-07-15 21:41:48,170 Class timings for all other class is MONDAY and THURSDAY 3 PM to 6 PM
+INFO 2022-07-15 21:41:48,170 Class timings for all other class is MONDAY and THURSDAY 3 PM to 6 PM
+INFO 2022-07-15 21:41:48,170 Details and Fees of Fullstack JavaScript Bootcamp students
+INFO 2022-07-15 21:41:48,170 
+Student: sankalp,
+Course opted: Fullstack Javascript Bootcamp,
+No of Course: 1,
+Course_fee per Course: 3000,
+Qualification: B.E.(Electrical)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by sankalp is: Rs. 3000
+INFO 2022-07-15 21:41:48,170 
+Student: shantanu,
+Course opted: Fullstack Javascript Bootcamp, FSDS,
+No of Course: 2,
+Course_fee per Course: 6000,
+Qualification: B.E.(CSE)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by shantanu is: Rs. 12000
+INFO 2022-07-15 21:41:48,170 Mentor details for FSJSB courses is as below:
+INFO 2022-07-15 21:41:48,170 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+
+INFO 2022-07-15 21:41:48,170 
+Mentor: Shubham Waje,
+Salary per day: 1000,
+Current_Course: FSJSB
+
+INFO 2022-07-15 21:41:48,170 Details and Fees of Development students
+INFO 2022-07-15 21:41:48,170 
+Student: shilpa,
+Course opted: Blockchain_community, Cyber_sec_masters,
+No of Course: 2,
+Course_fee per Course: 2500,
+Qualification: M.Tech (CSE)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by shilpa is: Rs. 5000
+INFO 2022-07-15 21:41:48,170 
+Student: Shannon,
+Course opted:  Cyber_sec_masters,
+No of Course: 1,
+Course_fee per Course: 2500,
+Qualification: B.Tech (Mining)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by Shannon is: Rs. 2500
+INFO 2022-07-15 21:41:48,170 
+Student: samaira,
+Course opted: Blockchain_community,FSDA, Cyber_sec_masters,
+No of Course: 3,
+Course_fee per Course: 4000,
+Qualification: M.Tech (BIOTech)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by samaira is: Rs. 12000
+INFO 2022-07-15 21:41:48,170 Mentor details for Development courses is as below:
+INFO 2022-07-15 21:41:48,170 
+Mentor: Sanjeevan Thorat,
+Salary per day: 1000,
+Current_Course: Blockchain_community
+
+INFO 2022-07-15 21:41:48,170 
+Mentor: Saksham Choudhary,
+Salary per day: 2000,
+Current_Course: CyberSec_community, Cybersec_Masters
+
+INFO 2022-07-15 21:41:48,170 Details and Fees of cloud students
+INFO 2022-07-15 21:41:48,170 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by Sheetal is: Rs. 4000
+INFO 2022-07-15 21:41:48,170 Mentor details for Cloud courses is as below:
+INFO 2022-07-15 21:41:48,170 
+Mentor: Sachin Agarwal,
+Salary per day: 1000,
+Current_Course: AWS Cloud Masters
+
+INFO 2022-07-15 21:41:48,170 Details and Fees of Marketing students
+INFO 2022-07-15 21:41:48,170 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by Samiksha is: Rs. 2000
+INFO 2022-07-15 21:41:48,170 
+Student: Sneha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: M.A. (English_Literature)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by Sneha is: Rs. 2000
+INFO 2022-07-15 21:41:48,170 Mentor details for Marketing courses is as below:
+INFO 2022-07-15 21:41:48,170 
+Mentor: Amresh Bharti,
+Salary per day: 2000,
+Current_Course: Youtube Mastery, Digital_Marketing_Bootcamp
+
+INFO 2022-07-15 21:41:48,170 
+Student: sankalp,
+Course opted: Fullstack Javascript Bootcamp,
+No of Course: 1,
+Course_fee per Course: 3000,
+Qualification: B.E.(Electrical)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by sankalp is: Rs. 3000
+INFO 2022-07-15 21:41:48,170 
+Student: shantanu,
+Course opted: Fullstack Javascript Bootcamp, FSDS,
+No of Course: 2,
+Course_fee per Course: 6000,
+Qualification: B.E.(CSE)
+
+INFO 2022-07-15 21:41:48,170 
+Total Fees paid by shantanu is: Rs. 12000
+INFO 2022-07-15 21:41:48,170 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+
+INFO 2022-07-15 21:41:48,170 
+Total salary of Hitesh Choudhary is: Rs. 60000
+INFO 2022-07-15 21:41:48,170 
+Mentor: Shubham Waje,
+Salary per day: 1000,
+Current_Course: FSJSB
+
+INFO 2022-07-15 21:41:48,185 
+Total salary of Shubham Waje is: Rs. 30000
+INFO 2022-07-15 21:41:48,185 
+Student: shilpa,
+Course opted: Blockchain_community, Cyber_sec_masters,
+No of Course: 2,
+Course_fee per Course: 2500,
+Qualification: M.Tech (CSE)
+
+INFO 2022-07-15 21:41:48,185 
+Total Fees paid by shilpa is: Rs. 5000
+INFO 2022-07-15 21:41:48,185 
+Student: Shannon,
+Course opted:  Cyber_sec_masters,
+No of Course: 1,
+Course_fee per Course: 2500,
+Qualification: B.Tech (Mining)
+
+INFO 2022-07-15 21:41:48,185 
+Total Fees paid by Shannon is: Rs. 2500
+INFO 2022-07-15 21:41:48,185 
+Student: samaira,
+Course opted: Blockchain_community,FSDA, Cyber_sec_masters,
+No of Course: 3,
+Course_fee per Course: 4000,
+Qualification: M.Tech (BIOTech)
+
+INFO 2022-07-15 21:41:48,185 
+Total Fees paid by samaira is: Rs. 12000
+INFO 2022-07-15 21:41:48,185 
+Mentor: Sanjeevan Thorat,
+Salary per day: 1000,
+Current_Course: Blockchain_community
+
+INFO 2022-07-15 21:41:48,185 
+Total salary of Sanjeevan Thorat is: Rs. 30000
+INFO 2022-07-15 21:41:48,185 
+Mentor: Saksham Choudhary,
+Salary per day: 2000,
+Current_Course: CyberSec_community, Cybersec_Masters
+
+INFO 2022-07-15 21:41:48,185 
+Total salary of Saksham Choudhary is: Rs. 60000
+INFO 2022-07-15 21:41:48,185 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+
+INFO 2022-07-15 21:41:48,185 
+Total Fees paid by Sheetal is: Rs. 4000
+INFO 2022-07-15 21:41:48,185 
+Mentor: Sachin Agarwal,
+Salary per day: 1000,
+Current_Course: AWS Cloud Masters
+
+INFO 2022-07-15 21:41:48,185 
+Total salary of Sachin Agarwal is: Rs. 30000
+INFO 2022-07-15 21:41:48,185 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+
+INFO 2022-07-15 21:41:48,185 
+Total Fees paid by Samiksha is: Rs. 2000
+INFO 2022-07-15 21:41:48,185 
+Student: Sneha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: M.A. (English_Literature)
+
+INFO 2022-07-15 21:41:48,185 
+Total Fees paid by Sneha is: Rs. 2000
+INFO 2022-07-15 21:41:48,185 
+Mentor: Amresh Bharti,
+Salary per day: 2000,
+Current_Course: Youtube Mastery, Digital_Marketing_Bootcamp
+
+INFO 2022-07-15 21:41:48,185 
+Total salary of Amresh Bharti is: Rs. 60000
+INFO 2022-07-15 21:41:48,185 importing Class 'Basic_Code_IV' from module 'Basic_code_IV' and package 'Ineuron_vision'
+INFO 2022-07-15 21:41:48,201 Creating Class Basic_code_IV
+INFO 2022-07-15 21:41:48,201 Creating Class Products and inheriting class Basic_code_IV in it.
+INFO 2022-07-15 21:41:48,201 Creating objects in Class Products
+INFO 2022-07-15 21:41:48,201 
+Project Name: Appareal Detection
+Project_Description: Detection of proper clothing and wearables by the employees in a working environment.
+Project Members: ['Sudhanshu', 'Sunny Chandra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Appliance Energy Consumption Prediction
+Project_Description: Track spending on different appliances by single power consumption forecating application.
+Project Members: ['Krish Naik', 'Shashank Mishra', 'Sunny Chandra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Diabetes Prediction
+Project_Description: Keep your anatomy measurement with you for quick and easy prognosis of diabetes.
+Project Members: ['Sudhanshu Kumar', 'Krish Naik', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Credit Card Approval Prediction
+Project_Description: Evaulate immcalcuted credit card approval propability.
+Project Members: ['Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Spam Message Prediction
+Project_Description: An application to ensure whether the message is spam or not.
+Project Members: ['Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Metro Interstate Traffic Prediction
+Project_Description: Calibration of traffic prediction on the bases of weather conditions.
+Project Members: ['Shivan Roy', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Oil Spill Detection
+Project_Description: Prevention of oil leaks from carriers & segmenting oil spill patches in waterways.
+Project Members: ['Sudhanshu Kumar', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Spam Message Prediction
+Project_Description: An application to ensure whether the message is spam or not.
+Project Members: ['Sudhanshu Kumar', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Pipeline Leakage Detection
+Project_Description: Mainting fault tolearance systems & detecting leaks in oil & gas pipelines.
+Project Members: ['Shivan Roy', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Forest Cover Type Prediction
+Project_Description: To predict 7 different types of forest cover on the basis of land surrounding of predominant terrestrial ecosystem.
+Project Members: ['Sudhanshu Kumar', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Appareal Detection
+Project_Description: Detection of proper clothing and wearables by the employees in a working environment.
+Project Members: ['Sudhanshu', 'Sunny Chandra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Appliance Energy Consumption Prediction
+Project_Description: Track spending on different appliances by single power consumption forecating application.
+Project Members: ['Krish Naik', 'Shashank Mishra', 'Sunny Chandra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Diabetes Prediction
+Project_Description: Keep your anatomy measurement with you for quick and easy prognosis of diabetes.
+Project Members: ['Sudhanshu Kumar', 'Krish Naik', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Credit Card Approval Prediction
+Project_Description: Evaulate immcalcuted credit card approval propability.
+Project Members: ['Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Spam Message Prediction
+Project_Description: An application to ensure whether the message is spam or not.
+Project Members: ['Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Metro Interstate Traffic Prediction
+Project_Description: Calibration of traffic prediction on the bases of weather conditions.
+Project Members: ['Shivan Roy', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Oil Spill Detection
+Project_Description: Prevention of oil leaks from carriers & segmenting oil spill patches in waterways.
+Project Members: ['Sudhanshu Kumar', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Spam Message Prediction
+Project_Description: An application to ensure whether the message is spam or not.
+Project Members: ['Sudhanshu Kumar', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Pipeline Leakage Detection
+Project_Description: Mainting fault tolearance systems & detecting leaks in oil & gas pipelines.
+Project Members: ['Shivan Roy', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 
+Project Name: Forest Cover Type Prediction
+Project_Description: To predict 7 different types of forest cover on the basis of land surrounding of predominant terrestrial ecosystem.
+Project Members: ['Sudhanshu Kumar', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:41:48,201 Creating Class Hall_of_Fame
+INFO 2022-07-15 21:41:48,201 creating constructor in Class Hall_of_Fame
+INFO 2022-07-15 21:41:48,201 Creating Methods in Class Hall_of_Fame
+INFO 2022-07-15 21:41:48,201 Working with Method student_hof_deatils
+INFO 2022-07-15 21:41:48,201 
+Student Name: Santosh Kumar,
+Company Name: MU-Sigma and
+Message for Juniors: One of the best things I ever did in my career path is to choose INEURON as my career buddy.
+I am so thankful to Sudhanshu Sir , Krish naik sir for introducing iNeuron platform which changed 
+my learning patterns, practicing real life projects etc. Hi, I am Santhosh from FSDS batch from iNeuron,
+which made me to get into Data Science domain from platform support with in a small while. Still so 
+many are there to learn from iNeuron and hope this platform would change lives of many more aspiring 
+people in all domains.
+
+INFO 2022-07-15 21:41:48,201 
+Student Name: Sachin Mishra,
+Company Name: Data Society and
+Message for Juniors: Hello All, I can't believe that I am going to join Data Society as a Data Scientist.
+But It all happened due to the whole Ineuron team and the super-power available for all of us, yes you guessed it right (Internet).
+I still remember when I started my journey into the data field I was so afraid of coding and logic building, but as time passed away 
+I was like just keep practicing and follow the best practices, and the best advice that my mentor is giving. I would like to thank
+Mr. Sudhanshu Kumar, Krish Naik and Dhaval Patel (Codebasics). These guys are simply awesome. So much legitimate contents are available
+on youtube regarding data science due to Krish Naik and Dhaval Patel. I learned from them very much but when I joined Inueron I came to
+know how we can build industry(Production) grade Projects. Overall I want to say that if I can become a data scientist,
+I think anybody who loves the field of data and process and not the outcome only, he/she definitely become more successful in the field
+of Data Science.
+
+INFO 2022-07-15 21:41:48,201 
+Student Name: Saurabh Kumar,
+Company Name: Wiseanalytics.io and
+Message for Juniors: Hi, I am a Saurabh, completed my bachelor's in Petroleum Engineering in 2021. After completing my graduation,
+I joined an IT Consulting firm and worked there for 1 year but my inclination from the beginning was towards ML/Data analytics or in simple words
+playing around with the data and programming. One day I saw Sudhanshu and Krish Sir's videos on youtube. After seeing that I purchased the ML
+masters course from iNeuron.ai (on the canvas platform). After completing that course I started giving interviews, I was able to clear ML-related
+questions but I was stuck when questions were asked on a big data-related topic. Then I purchased a Big Data course by Saurav Agarwal sir.
+After completing that I started giving interviews and I gave around 7-8 interviews 2 months back, out of which I was able to get the offer from
+5 (Business analyst, Data Analyst, Business operation analyst, Python developer, and last but not least Data Engineer). I was just in flow and
+continuously giving the interviews and in the end, I was able to clear all the profiles. The way Sudhanshu sir teaches is just amazing, it gives
+me the confidence that in an interview I told to an interviewer to ask anything about any ML algorithm. I recommend everyone if they really want to
+excel in the field of AI/ML/Data engineering and don't have an idea where to start, just start with iNeuron.ai, because here you not only get
+the theoretical concept clear but also do the practical implementation of the concepts. Thanks
+
+INFO 2022-07-15 21:41:48,201 
+Student Name: Santosh Kumar,
+Company Name: MU-Sigma and
+Message for Juniors: One of the best things I ever did in my career path is to choose INEURON as my career buddy.
+I am so thankful to Sudhanshu Sir , Krish naik sir for introducing iNeuron platform which changed 
+my learning patterns, practicing real life projects etc. Hi, I am Santhosh from FSDS batch from iNeuron,
+which made me to get into Data Science domain from platform support with in a small while. Still so 
+many are there to learn from iNeuron and hope this platform would change lives of many more aspiring 
+people in all domains.
+
+INFO 2022-07-15 21:41:48,201 
+Student Name: Sachin Mishra,
+Company Name: Data Society and
+Message for Juniors: Hello All, I can't believe that I am going to join Data Society as a Data Scientist.
+But It all happened due to the whole Ineuron team and the super-power available for all of us, yes you guessed it right (Internet).
+I still remember when I started my journey into the data field I was so afraid of coding and logic building, but as time passed away 
+I was like just keep practicing and follow the best practices, and the best advice that my mentor is giving. I would like to thank
+Mr. Sudhanshu Kumar, Krish Naik and Dhaval Patel (Codebasics). These guys are simply awesome. So much legitimate contents are available
+on youtube regarding data science due to Krish Naik and Dhaval Patel. I learned from them very much but when I joined Inueron I came to
+know how we can build industry(Production) grade Projects. Overall I want to say that if I can become a data scientist,
+I think anybody who loves the field of data and process and not the outcome only, he/she definitely become more successful in the field
+of Data Science.
+
+INFO 2022-07-15 21:41:48,217 
+Student Name: Saurabh Kumar,
+Company Name: Wiseanalytics.io and
+Message for Juniors: Hi, I am a Saurabh, completed my bachelor's in Petroleum Engineering in 2021. After completing my graduation,
+I joined an IT Consulting firm and worked there for 1 year but my inclination from the beginning was towards ML/Data analytics or in simple words
+playing around with the data and programming. One day I saw Sudhanshu and Krish Sir's videos on youtube. After seeing that I purchased the ML
+masters course from iNeuron.ai (on the canvas platform). After completing that course I started giving interviews, I was able to clear ML-related
+questions but I was stuck when questions were asked on a big data-related topic. Then I purchased a Big Data course by Saurav Agarwal sir.
+After completing that I started giving interviews and I gave around 7-8 interviews 2 months back, out of which I was able to get the offer from
+5 (Business analyst, Data Analyst, Business operation analyst, Python developer, and last but not least Data Engineer). I was just in flow and
+continuously giving the interviews and in the end, I was able to clear all the profiles. The way Sudhanshu sir teaches is just amazing, it gives
+me the confidence that in an interview I told to an interviewer to ask anything about any ML algorithm. I recommend everyone if they really want to
+excel in the field of AI/ML/Data engineering and don't have an idea where to start, just start with iNeuron.ai, because here you not only get
+the theoretical concept clear but also do the practical implementation of the concepts. Thanks
+
+INFO 2022-07-15 21:41:48,217 Creating Class Internship
+INFO 2022-07-15 21:41:48,217 Creating constructor in Class Internship
+INFO 2022-07-15 21:41:48,217 Creating Method in Class Internship
+INFO 2022-07-15 21:41:48,217 Student Internship Project Details and student details
+INFO 2022-07-15 21:41:48,217 
+Name: Shubham,Course_name: FSDS,
+Project_topic: YouTube Project,Project status: 30 percent completed
+
+INFO 2022-07-15 21:41:48,217 
+Student: Shubham,
+Course opted: FSDS, DSA_community,
+No of Course: 2,
+Course_fee per Course: 3000,
+Qualification: B.E (Mechanical)
+
+INFO 2022-07-15 21:41:48,217 Mentor for above student is: 
+INFO 2022-07-15 21:41:48,217 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:41:48,217 Student Internship Project Details and student details
+INFO 2022-07-15 21:41:48,217 
+Name: Sameer,Course_name: FSDS,
+Project_topic: Automobile,Project status: 35 percent completed
+
+INFO 2022-07-15 21:41:48,217 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,217 Mentor for above student is: 
+INFO 2022-07-15 21:41:48,217 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:41:48,217 Student Internship Project Details and student details
+INFO 2022-07-15 21:41:48,217 
+Name: Shantanu,Course_name: Fullstack Javascript Bootcamp,
+Project_topic: Java Project,Project status: 67 percent completed
+
+INFO 2022-07-15 21:41:48,217 
+Student: shantanu,
+Course opted: Fullstack Javascript Bootcamp, FSDS,
+No of Course: 2,
+Course_fee per Course: 6000,
+Qualification: B.E.(CSE)
+
+INFO 2022-07-15 21:41:48,217 Mentor for above student is: 
+INFO 2022-07-15 21:41:48,217 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+
+INFO 2022-07-15 21:41:48,217 Student Internship Project Details and student details
+INFO 2022-07-15 21:41:48,217 
+Name: Shubham,Course_name: FSDS,
+Project_topic: YouTube Project,Project status: 30 percent completed
+
+INFO 2022-07-15 21:41:48,217 
+Student: Shubham,
+Course opted: FSDS, DSA_community,
+No of Course: 2,
+Course_fee per Course: 3000,
+Qualification: B.E (Mechanical)
+
+INFO 2022-07-15 21:41:48,217 Mentor for above student is: 
+INFO 2022-07-15 21:41:48,217 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:41:48,217 Student Internship Project Details and student details
+INFO 2022-07-15 21:41:48,217 
+Name: Sameer,Course_name: FSDS,
+Project_topic: Automobile,Project status: 35 percent completed
+
+INFO 2022-07-15 21:41:48,217 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,217 Mentor for above student is: 
+INFO 2022-07-15 21:41:48,217 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:41:48,217 Student Internship Project Details and student details
+INFO 2022-07-15 21:41:48,217 
+Name: Shantanu,Course_name: Fullstack Javascript Bootcamp,
+Project_topic: Java Project,Project status: 67 percent completed
+
+INFO 2022-07-15 21:41:48,217 
+Student: shantanu,
+Course opted: Fullstack Javascript Bootcamp, FSDS,
+No of Course: 2,
+Course_fee per Course: 6000,
+Qualification: B.E.(CSE)
+
+INFO 2022-07-15 21:41:48,217 Mentor for above student is: 
+INFO 2022-07-15 21:41:48,217 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+
+INFO 2022-07-15 21:41:48,232 Creating Blogs Class
+INFO 2022-07-15 21:41:48,232 Creating Constructor in class Blogs
+INFO 2022-07-15 21:41:48,232 Creating Methods in Class Blogs
+INFO 2022-07-15 21:41:48,232 Creating objects in class Blogs
+INFO 2022-07-15 21:41:48,232 Details of Blogger is as below: 
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Jeevan, Contact_details: 998877665544,
+Previous_Association: No
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Sanjeevan, Contact_details: 8877665523,
+Previous_Association: No
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Samarkumar, Contact_details: 8976564323,
+Previous_Association: No
+
+INFO 2022-07-15 21:41:48,232 importing objects from module 'DS_students' and 'Other_students' from package 'students'
+INFO 2022-07-15 21:41:48,232 Details of students who are writing blogs in Ineuron is as below: 
+INFO 2022-07-15 21:41:48,232 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,232 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+
+INFO 2022-07-15 21:41:48,232 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+
+INFO 2022-07-15 21:41:48,232 Creating Blogs class objects for students who are writing blogs in Ineuron
+INFO 2022-07-15 21:41:48,232 Blogger details of students who are writing blogs in iNeuron is as below: 
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Sameer, Contact_details: 123414,
+Previous_Association: Student in iNeuron
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Samiksha, Contact_details: 121356,
+Previous_Association: Student in iNeuron
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Sheetal, Contact_details: 123478,
+Previous_Association: Student in iNeuron
+
+INFO 2022-07-15 21:41:48,232 Pure Bloggers are as below: 
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Jeevan, Contact_details: 998877665544,
+Previous_Association: No
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Sanjeevan, Contact_details: 8877665523,
+Previous_Association: No
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Samarkumar, Contact_details: 8976564323,
+Previous_Association: No
+
+INFO 2022-07-15 21:41:48,232 Blogger and student details of students who are writing blogs in iNeuron is as below: 
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Sameer, Contact_details: 123414,
+Previous_Association: Student in iNeuron
+
+INFO 2022-07-15 21:41:48,232 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Samiksha, Contact_details: 121356,
+Previous_Association: Student in iNeuron
+
+INFO 2022-07-15 21:41:48,232 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+
+INFO 2022-07-15 21:41:48,232 
+Blogger Name: Sheetal, Contact_details: 123478,
+Previous_Association: Student in iNeuron
+
+INFO 2022-07-15 21:41:48,232 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+
+INFO 2022-07-15 21:41:48,248 creating affiliates class
+INFO 2022-07-15 21:41:48,248 Creating constructor in affiliates class
+INFO 2022-07-15 21:41:48,248 Creating methods in affiliates class
+INFO 2022-07-15 21:41:48,248 Creating objects in class affiliates
+INFO 2022-07-15 21:41:48,248 Details of affiliates in Ineuron is as below: 
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: rajeev, Registration_details: 123124124,
+MobileNo: 9923456784, Salary per registration: 650
+
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: sameera, Registration_details: 12312833123,
+MobileNo: 9934578999, Salary per registration: 650
+
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: shipra, Registration_details: 123324833123,
+MobileNo: 9967578999, Salary per registration: 650
+
+INFO 2022-07-15 21:41:48,248 Salary of affiliates is as below: 
+INFO 2022-07-15 21:41:48,248 
+salary of rajeev is: Rs. 6500
+INFO 2022-07-15 21:41:48,248 
+salary of sameera is: Rs. 7150
+INFO 2022-07-15 21:41:48,248 
+salary of shipra is: Rs. 12350
+INFO 2022-07-15 21:41:48,248 Below is the details of students working as affiliates
+INFO 2022-07-15 21:41:48,248 importing objects from module 'DS_students' and 'Other_students' from package 'students'
+INFO 2022-07-15 21:41:48,248 Details of students who are affiliates in Ineuron is as below: 
+INFO 2022-07-15 21:41:48,248 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,248 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+
+INFO 2022-07-15 21:41:48,248 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+
+INFO 2022-07-15 21:41:48,248 Creating affiliate class objects for students who are affiliates
+INFO 2022-07-15 21:41:48,248 affiliate details of students who are affiliate is as below: 
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: Sameer, Registration_details: 123414,
+MobileNo: 9967456345, Salary per registration: 700
+
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: Samiksha, Registration_details: 121356,
+MobileNo: 8745672367, Salary per registration: 700
+
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: Sheetal, Registration_details: 123478,
+MobileNo: 9867454399, Salary per registration: 700
+
+INFO 2022-07-15 21:41:48,248 affiliate salary of students who are affiliates in Ineuron is as below: 
+INFO 2022-07-15 21:41:48,248 
+salary of Sameer is: Rs. 8400
+INFO 2022-07-15 21:41:48,248 
+salary of Samiksha is: Rs. 11900
+INFO 2022-07-15 21:41:48,248 
+salary of Sheetal is: Rs. 10500
+INFO 2022-07-15 21:41:48,248 Details and salary of affiliates in Ineuron is as below: 
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: rajeev, Registration_details: 123124124,
+MobileNo: 9923456784, Salary per registration: 650
+
+INFO 2022-07-15 21:41:48,248 
+salary of rajeev is: Rs. 6500
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: sameera, Registration_details: 12312833123,
+MobileNo: 9934578999, Salary per registration: 650
+
+INFO 2022-07-15 21:41:48,248 
+salary of sameera is: Rs. 7150
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: shipra, Registration_details: 123324833123,
+MobileNo: 9967578999, Salary per registration: 650
+
+INFO 2022-07-15 21:41:48,248 
+salary of shipra is: Rs. 12350
+INFO 2022-07-15 21:41:48,248 importing objects from module 'DS_students' and 'Other_students' from package 'students'
+INFO 2022-07-15 21:41:48,248 affiliate and salary details of students who are affiliate is as below: 
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: Sameer, Registration_details: 123414,
+MobileNo: 9967456345, Salary per registration: 700
+
+INFO 2022-07-15 21:41:48,248 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:41:48,248 
+salary of Sameer is: Rs. 8400
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: Samiksha, Registration_details: 121356,
+MobileNo: 8745672367, Salary per registration: 700
+
+INFO 2022-07-15 21:41:48,248 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+
+INFO 2022-07-15 21:41:48,248 
+salary of Samiksha is: Rs. 11900
+INFO 2022-07-15 21:41:48,248 
+Affiliate Name: Sheetal, Registration_details: 123478,
+MobileNo: 9867454399, Salary per registration: 700
+
+INFO 2022-07-15 21:41:48,248 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+
+INFO 2022-07-15 21:41:48,248 
+salary of Sheetal is: Rs. 10500

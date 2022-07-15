@@ -1,0 +1,98 @@
+INFO 2022-07-15 21:27:05,578 root importing class 'Basiccode_students' from Module 'basic_code_students' and package 'students'
+INFO 2022-07-15 21:27:05,594 root Creating class Basiccode_students
+INFO 2022-07-15 21:27:05,594 root Creating constructor in class Basiccode_students
+INFO 2022-07-15 21:27:05,594 root Creating Methods in class Basiccode_students
+INFO 2022-07-15 21:27:05,594 root Importing objects from module 'datasci_mentors' and package 'mentors'
+INFO 2022-07-15 21:27:05,594 root importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:27:05,609 root Creating constructor in Basic_code class
+INFO 2022-07-15 21:27:05,609 root Creating methods in Basic_code class
+INFO 2022-07-15 21:27:05,609 root Inheriting class Basic_code in class DS_mentor
+INFO 2022-07-15 21:27:05,609 root Creating objects for mentors in DS_mentors class
+INFO 2022-07-15 21:27:05,609 root details and salary of Data science Mentors is as below: 
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:27:05,609 root 
+Total salary of Sudhanshu Kumar is: Rs. 120000
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:27:05,609 root 
+Total salary of Krish Naik is: Rs. 90000
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+
+INFO 2022-07-15 21:27:05,609 root 
+Total salary of Sunny Chandra is: Rs. 60000
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+
+INFO 2022-07-15 21:27:05,609 root 
+Total salary of Shashank Mishra is: Rs. 30000
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+
+INFO 2022-07-15 21:27:05,609 root 
+Total salary of Saurav Agarwal is: Rs. 30000
+INFO 2022-07-15 21:27:05,609 root Inheriting class 'Basiccode_students' in class 'FSDS_students' 
+INFO 2022-07-15 21:27:05,609 root Creating objects for FSDS students in FSDS_students class
+INFO 2022-07-15 21:27:05,609 root Below is an example of Method Overriding
+INFO 2022-07-15 21:27:05,609 root Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM
+INFO 2022-07-15 21:27:05,609 root Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM
+INFO 2022-07-15 21:27:05,609 root Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM
+INFO 2022-07-15 21:27:05,609 root Students details is as below: 
+INFO 2022-07-15 21:27:05,609 root 
+Student: Shubham,
+Course opted: FSDS, DSA_community,
+No of Course: 2,
+Course_fee per Course: 3000,
+Qualification: B.E (Mechanical)
+
+INFO 2022-07-15 21:27:05,609 root 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+
+INFO 2022-07-15 21:27:05,609 root Students fee details is as below:
+INFO 2022-07-15 21:27:05,609 root 
+Total Fees paid by Shubham is: Rs. 6000
+INFO 2022-07-15 21:27:05,609 root 
+Total Fees paid by Sameer is: Rs. 2000
+INFO 2022-07-15 21:27:05,609 root Mentor details for DS courses is as below:
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+
+INFO 2022-07-15 21:27:05,609 root 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+

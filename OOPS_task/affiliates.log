@@ -1,0 +1,347 @@
+INFO 2022-07-15 21:31:47,717 root creating affiliates class 
+INFO 2022-07-15 21:31:47,717 root Creating constructor in affiliates class 
+INFO 2022-07-15 21:31:47,717 root Creating methods in affiliates class 
+INFO 2022-07-15 21:31:47,717 root Creating objects in class affiliates 
+INFO 2022-07-15 21:31:47,717 root Details of affiliates in Ineuron is as below:  
+INFO 2022-07-15 21:31:47,717 root 
+Affiliate Name: rajeev, Registration_details: 123124124,
+MobileNo: 9923456784, Salary per registration: 650
+ 
+INFO 2022-07-15 21:31:47,717 root 
+Affiliate Name: sameera, Registration_details: 12312833123,
+MobileNo: 9934578999, Salary per registration: 650
+ 
+INFO 2022-07-15 21:31:47,725 root 
+Affiliate Name: shipra, Registration_details: 123324833123,
+MobileNo: 9967578999, Salary per registration: 650
+ 
+INFO 2022-07-15 21:31:47,725 root Salary of affiliates is as below:  
+INFO 2022-07-15 21:31:47,725 root 
+salary of rajeev is: Rs. 6500 
+INFO 2022-07-15 21:31:47,725 root 
+salary of sameera is: Rs. 7150 
+INFO 2022-07-15 21:31:47,725 root 
+salary of shipra is: Rs. 12350 
+INFO 2022-07-15 21:31:47,725 root Below is the details of students working as affiliates 
+INFO 2022-07-15 21:31:47,725 root importing objects from module 'DS_students' and 'Other_students' from package 'students' 
+INFO 2022-07-15 21:31:47,725 root importing class 'Basiccode_students' from Module 'basic_code_students' and package 'students' 
+INFO 2022-07-15 21:31:47,725 root Creating class Basiccode_students 
+INFO 2022-07-15 21:31:47,725 root Creating constructor in class Basiccode_students 
+INFO 2022-07-15 21:31:47,725 root Creating Methods in class Basiccode_students 
+INFO 2022-07-15 21:31:47,725 root Importing objects from module 'datasci_mentors' and package 'mentors' 
+INFO 2022-07-15 21:31:47,725 root importing class Basic_code from Module basic_code and package mentors 
+INFO 2022-07-15 21:31:47,740 root Creating constructor in Basic_code class 
+INFO 2022-07-15 21:31:47,740 root Creating methods in Basic_code class 
+INFO 2022-07-15 21:31:47,740 root Inheriting class Basic_code in class DS_mentor 
+INFO 2022-07-15 21:31:47,740 root Creating objects for mentors in DS_mentors class 
+INFO 2022-07-15 21:31:47,740 root details and salary of Data science Mentors is as below:  
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Sudhanshu Kumar is: Rs. 120000 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Krish Naik is: Rs. 90000 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Sunny Chandra is: Rs. 60000 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Shashank Mishra is: Rs. 30000 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Saurav Agarwal is: Rs. 30000 
+INFO 2022-07-15 21:31:47,740 root Inheriting class 'Basiccode_students' in class 'FSDS_students'  
+INFO 2022-07-15 21:31:47,740 root Creating objects for FSDS students in FSDS_students class 
+INFO 2022-07-15 21:31:47,740 root Below is an example of Method Overriding 
+INFO 2022-07-15 21:31:47,740 root Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM 
+INFO 2022-07-15 21:31:47,740 root Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM 
+INFO 2022-07-15 21:31:47,740 root Class timings for FSDS class is SATURDAY and SUNDAY 3 PM to 6 PM 
+INFO 2022-07-15 21:31:47,740 root Students details is as below:  
+INFO 2022-07-15 21:31:47,740 root 
+Student: Shubham,
+Course opted: FSDS, DSA_community,
+No of Course: 2,
+Course_fee per Course: 3000,
+Qualification: B.E (Mechanical)
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+ 
+INFO 2022-07-15 21:31:47,740 root Students fee details is as below: 
+INFO 2022-07-15 21:31:47,740 root 
+Total Fees paid by Shubham is: Rs. 6000 
+INFO 2022-07-15 21:31:47,740 root 
+Total Fees paid by Sameer is: Rs. 2000 
+INFO 2022-07-15 21:31:47,740 root Mentor details for DS courses is as below: 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+ 
+INFO 2022-07-15 21:31:47,740 root importing class Basiccode_students from Module basic_code_students and package students 
+INFO 2022-07-15 21:31:47,740 root Importing objects from module 'java_mentors' and package 'mentors' 
+INFO 2022-07-15 21:31:47,740 root importing class DS_mentor from Module datasci_mentors and package mentors 
+INFO 2022-07-15 21:31:47,740 root Inheriting class Basic_code in class Java_mentor 
+INFO 2022-07-15 21:31:47,740 root creating objects in class java_mentors 
+INFO 2022-07-15 21:31:47,740 root Details and salary of Java Mentors is as below:  
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Hitesh Choudhary is: Rs. 60000 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Shubham Waje,
+Salary per day: 1000,
+Current_Course: FSJSB
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Shubham Waje is: Rs. 30000 
+INFO 2022-07-15 21:31:47,740 root Importing objects from module 'dev_mentors' and package 'mentors' 
+INFO 2022-07-15 21:31:47,740 root importing class Basic_code from Module basic_code and package mentors 
+INFO 2022-07-15 21:31:47,740 root Inheriting class Basic_code in class Dev_mentor 
+INFO 2022-07-15 21:31:47,740 root Creating objects for mentors in Dev_mentors class 
+INFO 2022-07-15 21:31:47,740 root details and salary of Development Mentors is as below:  
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Sanjeevan Thorat,
+Salary per day: 1000,
+Current_Course: Blockchain_community
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Sanjeevan Thorat is: Rs. 30000 
+INFO 2022-07-15 21:31:47,740 root 
+Mentor: Saksham Choudhary,
+Salary per day: 2000,
+Current_Course: CyberSec_community, Cybersec_Masters
+ 
+INFO 2022-07-15 21:31:47,740 root 
+Total salary of Saksham Choudhary is: Rs. 60000 
+INFO 2022-07-15 21:31:47,740 root Importing objects from module 'cloud_mentors' and package 'mentors' 
+INFO 2022-07-15 21:31:47,756 root importing class Basic_code from Module basic_code and package mentors 
+INFO 2022-07-15 21:31:47,756 root Inheriting class Basic_code in class cloud_mentor 
+INFO 2022-07-15 21:31:47,756 root Creating objects for mentors in Cloud_mentors class 
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Sachin Agarwal,
+Salary per day: 1000,
+Current_Course: AWS Cloud Masters
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total salary of Sachin Agarwal is: Rs. 30000 
+INFO 2022-07-15 21:31:47,756 root Importing objects from module 'marketing_mentors' and package 'mentors' 
+INFO 2022-07-15 21:31:47,756 root importing class Basic_code from Module basic_code and package mentors 
+INFO 2022-07-15 21:31:47,756 root Inheriting class Basic_code in class Marketing_mentor 
+INFO 2022-07-15 21:31:47,756 root Creating objects for mentors in Cloud_mentors class 
+INFO 2022-07-15 21:31:47,756 root Details and salary of Marketing Mentors is as below:  
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Amresh Bharti,
+Salary per day: 2000,
+Current_Course: Youtube Mastery, Digital_Marketing_Bootcamp
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total salary of Amresh Bharti is: Rs. 60000 
+INFO 2022-07-15 21:31:47,756 root Inheriting class Basiccode_students in class Other_students 
+INFO 2022-07-15 21:31:47,756 root Creating objects for FSJSB students in Other_students class 
+INFO 2022-07-15 21:31:47,756 root Creating objects for Development students in Other_students class 
+INFO 2022-07-15 21:31:47,756 root Creating objects for cloud students in Other_students class 
+INFO 2022-07-15 21:31:47,756 root Creating objects for Marketing students in Other_students class 
+INFO 2022-07-15 21:31:47,756 root Class Timings for all classes are mentioned Below 
+INFO 2022-07-15 21:31:47,756 root Class timings for all other class is MONDAY and THURSDAY 3 PM to 6 PM 
+INFO 2022-07-15 21:31:47,756 root Class timings for all other class is MONDAY and THURSDAY 3 PM to 6 PM 
+INFO 2022-07-15 21:31:47,756 root Details and Fees of Fullstack JavaScript Bootcamp students 
+INFO 2022-07-15 21:31:47,756 root 
+Student: sankalp,
+Course opted: Fullstack Javascript Bootcamp,
+No of Course: 1,
+Course_fee per Course: 3000,
+Qualification: B.E.(Electrical)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by sankalp is: Rs. 3000 
+INFO 2022-07-15 21:31:47,756 root 
+Student: shantanu,
+Course opted: Fullstack Javascript Bootcamp, FSDS,
+No of Course: 2,
+Course_fee per Course: 6000,
+Qualification: B.E.(CSE)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by shantanu is: Rs. 12000 
+INFO 2022-07-15 21:31:47,756 root Mentor details for FSJSB courses is as below: 
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Shubham Waje,
+Salary per day: 1000,
+Current_Course: FSJSB
+ 
+INFO 2022-07-15 21:31:47,756 root Details and Fees of Development students 
+INFO 2022-07-15 21:31:47,756 root 
+Student: shilpa,
+Course opted: Blockchain_community, Cyber_sec_masters,
+No of Course: 2,
+Course_fee per Course: 2500,
+Qualification: M.Tech (CSE)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by shilpa is: Rs. 5000 
+INFO 2022-07-15 21:31:47,756 root 
+Student: Shannon,
+Course opted:  Cyber_sec_masters,
+No of Course: 1,
+Course_fee per Course: 2500,
+Qualification: B.Tech (Mining)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by Shannon is: Rs. 2500 
+INFO 2022-07-15 21:31:47,756 root 
+Student: samaira,
+Course opted: Blockchain_community,FSDA, Cyber_sec_masters,
+No of Course: 3,
+Course_fee per Course: 4000,
+Qualification: M.Tech (BIOTech)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by samaira is: Rs. 12000 
+INFO 2022-07-15 21:31:47,756 root Mentor details for Development courses is as below: 
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Sanjeevan Thorat,
+Salary per day: 1000,
+Current_Course: Blockchain_community
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Saksham Choudhary,
+Salary per day: 2000,
+Current_Course: CyberSec_community, Cybersec_Masters
+ 
+INFO 2022-07-15 21:31:47,756 root Details and Fees of cloud students 
+INFO 2022-07-15 21:31:47,756 root 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by Sheetal is: Rs. 4000 
+INFO 2022-07-15 21:31:47,756 root Mentor details for Cloud courses is as below: 
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Sachin Agarwal,
+Salary per day: 1000,
+Current_Course: AWS Cloud Masters
+ 
+INFO 2022-07-15 21:31:47,756 root Details and Fees of Marketing students 
+INFO 2022-07-15 21:31:47,756 root 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by Samiksha is: Rs. 2000 
+INFO 2022-07-15 21:31:47,756 root 
+Student: Sneha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: M.A. (English_Literature)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Total Fees paid by Sneha is: Rs. 2000 
+INFO 2022-07-15 21:31:47,756 root Mentor details for Marketing courses is as below: 
+INFO 2022-07-15 21:31:47,756 root 
+Mentor: Amresh Bharti,
+Salary per day: 2000,
+Current_Course: Youtube Mastery, Digital_Marketing_Bootcamp
+ 
+INFO 2022-07-15 21:31:47,756 root Details of students who are affiliates in Ineuron is as below:  
+INFO 2022-07-15 21:31:47,756 root 
+Student: Sameer,
+Course opted: FSDS,
+No of Course: 1,
+Course_fee per Course: 2000,
+Qualification: B.E (CSE)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Student: Samiksha,
+Course opted: YT_master, Digital_marketing_bootcamp,
+No of Course: 2,
+Course_fee per Course: 1000,
+Qualification: B.Sc (Maths)
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Student: Sheetal,
+Course opted: AWS_Cloud_masters,
+No of Course: 1,
+Course_fee per Course: 4000,
+Qualification: M.Tech (Nano_science)
+ 
+INFO 2022-07-15 21:31:47,756 root Creating affiliate class objects for students who are affiliates 
+INFO 2022-07-15 21:31:47,756 root affiliate details of students who are affiliate is as below:  
+INFO 2022-07-15 21:31:47,756 root 
+Affiliate Name: Sameer, Registration_details: 123414,
+MobileNo: 9967456345, Salary per registration: 700
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Affiliate Name: Samiksha, Registration_details: 121356,
+MobileNo: 8745672367, Salary per registration: 700
+ 
+INFO 2022-07-15 21:31:47,756 root 
+Affiliate Name: Sheetal, Registration_details: 123478,
+MobileNo: 9867454399, Salary per registration: 700
+ 
+INFO 2022-07-15 21:31:47,756 root affiliate salary of students who are affiliates in Ineuron is as below:  
+INFO 2022-07-15 21:31:47,756 root 
+salary of Sameer is: Rs. 8400 
+INFO 2022-07-15 21:31:47,756 root 
+salary of Samiksha is: Rs. 11900 
+INFO 2022-07-15 21:31:47,756 root 
+salary of Sheetal is: Rs. 10500 

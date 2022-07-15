@@ -1,0 +1,20 @@
+INFO 2022-07-15 21:25:38,142 root importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:25:38,142 root Creating constructor in Basic_code class
+INFO 2022-07-15 21:25:38,142 root Creating methods in Basic_code class
+INFO 2022-07-15 21:25:38,142 root Inheriting class Basic_code in class Dev_mentor
+INFO 2022-07-15 21:25:38,142 root Creating objects for mentors in Dev_mentors class
+INFO 2022-07-15 21:25:38,142 root details and salary of Development Mentors is as below: 
+INFO 2022-07-15 21:25:38,142 root 
+Mentor: Sanjeevan Thorat,
+Salary per day: 1000,
+Current_Course: Blockchain_community
+
+INFO 2022-07-15 21:25:38,142 root 
+Total salary of Sanjeevan Thorat is: Rs. 30000
+INFO 2022-07-15 21:25:38,142 root 
+Mentor: Saksham Choudhary,
+Salary per day: 2000,
+Current_Course: CyberSec_community, Cybersec_Masters
+
+INFO 2022-07-15 21:25:38,142 root 
+Total salary of Saksham Choudhary is: Rs. 60000

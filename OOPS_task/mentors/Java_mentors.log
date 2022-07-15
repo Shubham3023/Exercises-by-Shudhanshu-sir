@@ -1,0 +1,20 @@
+INFO 2022-07-15 21:25:53,374 root importing class DS_mentor from Module datasci_mentors and package mentors
+INFO 2022-07-15 21:25:53,374 root Creating constructor in Basic_code class
+INFO 2022-07-15 21:25:53,374 root Creating methods in Basic_code class
+INFO 2022-07-15 21:25:53,390 root Inheriting class Basic_code in class Java_mentor
+INFO 2022-07-15 21:25:53,390 root creating objects in class java_mentors
+INFO 2022-07-15 21:25:53,390 root Details and salary of Java Mentors is as below: 
+INFO 2022-07-15 21:25:53,390 root 
+Mentor: Hitesh Choudhary,
+Salary per day: 2000,
+Current_Course: FSJSB, JSMARATHON
+
+INFO 2022-07-15 21:25:53,390 root 
+Total salary of Hitesh Choudhary is: Rs. 60000
+INFO 2022-07-15 21:25:53,390 root 
+Mentor: Shubham Waje,
+Salary per day: 1000,
+Current_Course: FSJSB
+
+INFO 2022-07-15 21:25:53,390 root 
+Total salary of Shubham Waje is: Rs. 30000

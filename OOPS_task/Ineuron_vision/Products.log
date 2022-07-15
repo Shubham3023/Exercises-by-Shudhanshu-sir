@@ -1,0 +1,64 @@
+INFO 2022-07-15 21:22:52,004 importing Class 'Basic_Code_IV' from module 'Basic_code_IV' and package 'Ineuron_vision'
+INFO 2022-07-15 21:22:52,015 Creating Class Basic_code_IV
+INFO 2022-07-15 21:22:52,015 Creating Class Products and inheriting class Basic_code_IV in it.
+INFO 2022-07-15 21:22:52,015 Creating objects in Class Products
+INFO 2022-07-15 21:22:52,015 
+Project Name: Appareal Detection
+Project_Description: Detection of proper clothing and wearables by the employees in a working environment.
+Project Members: ['Sudhanshu', 'Sunny Chandra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Appliance Energy Consumption Prediction
+Project_Description: Track spending on different appliances by single power consumption forecating application.
+Project Members: ['Krish Naik', 'Shashank Mishra', 'Sunny Chandra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Diabetes Prediction
+Project_Description: Keep your anatomy measurement with you for quick and easy prognosis of diabetes.
+Project Members: ['Sudhanshu Kumar', 'Krish Naik', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Credit Card Approval Prediction
+Project_Description: Evaulate immcalcuted credit card approval propability.
+Project Members: ['Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Spam Message Prediction
+Project_Description: An application to ensure whether the message is spam or not.
+Project Members: ['Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Metro Interstate Traffic Prediction
+Project_Description: Calibration of traffic prediction on the bases of weather conditions.
+Project Members: ['Shivan Roy', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Oil Spill Detection
+Project_Description: Prevention of oil leaks from carriers & segmenting oil spill patches in waterways.
+Project Members: ['Sudhanshu Kumar', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Spam Message Prediction
+Project_Description: An application to ensure whether the message is spam or not.
+Project Members: ['Sudhanshu Kumar', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Pipeline Leakage Detection
+Project_Description: Mainting fault tolearance systems & detecting leaks in oil & gas pipelines.
+Project Members: ['Shivan Roy', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+
+INFO 2022-07-15 21:22:52,015 
+Project Name: Forest Cover Type Prediction
+Project_Description: To predict 7 different types of forest cover on the basis of land surrounding of predominant terrestrial ecosystem.
+Project Members: ['Sudhanshu Kumar', 'Sunny Savita', 'Shashank Mishra', 'Saksham Choudhary', 'Sachin Agarwal']
+Project Status: 100 Percent Completed
+

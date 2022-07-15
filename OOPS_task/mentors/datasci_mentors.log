@@ -1,0 +1,41 @@
+INFO 2022-07-15 21:25:10,629 root importing class Basic_code from Module basic_code and package mentors
+INFO 2022-07-15 21:25:10,629 root Creating constructor in Basic_code class
+INFO 2022-07-15 21:25:10,629 root Creating methods in Basic_code class
+INFO 2022-07-15 21:25:10,629 root Inheriting class Basic_code in class DS_mentor
+INFO 2022-07-15 21:25:10,629 root Creating objects for mentors in DS_mentors class
+INFO 2022-07-15 21:25:10,629 root details and salary of Data science Mentors is as below: 
+INFO 2022-07-15 21:25:10,629 root 
+Mentor: Sudhanshu Kumar,
+Salary per day: 4000,
+Current_Course: FSDS, MLDL, DLCVNLP, BIGDBOOT
+
+INFO 2022-07-15 21:25:10,629 root 
+Total salary of Sudhanshu Kumar is: Rs. 120000
+INFO 2022-07-15 21:25:10,629 root 
+Mentor: Krish Naik,
+Salary per day: 3000,
+Current_Course: FSDS, MLDL, DLCVNLP
+
+INFO 2022-07-15 21:25:10,629 root 
+Total salary of Krish Naik is: Rs. 90000
+INFO 2022-07-15 21:25:10,629 root 
+Mentor: Sunny Chandra,
+Salary per day: 2000,
+Current_Course: FSDS, AIOPS
+
+INFO 2022-07-15 21:25:10,629 root 
+Total salary of Sunny Chandra is: Rs. 60000
+INFO 2022-07-15 21:25:10,629 root 
+Mentor: Shashank Mishra,
+Salary per day: 1000,
+Current_Course: BIGDBOOT
+
+INFO 2022-07-15 21:25:10,629 root 
+Total salary of Shashank Mishra is: Rs. 30000
+INFO 2022-07-15 21:25:10,629 root 
+Mentor: Saurav Agarwal,
+Salary per day: 1000,
+Current_Course: BIGDATA_MASTER
+
+INFO 2022-07-15 21:25:10,629 root 
+Total salary of Saurav Agarwal is: Rs. 30000
