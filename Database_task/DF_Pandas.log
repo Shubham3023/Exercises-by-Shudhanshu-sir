@@ -1,0 +1,44 @@
+INFO 2022-07-27 17:37:37,434 Creating Mysql connection with pycharm and creating cursor object
+INFO 2022-07-27 17:37:37,557 package: mysql.connector.plugins
+INFO 2022-07-27 17:37:37,557 plugin_name: caching_sha2_password
+INFO 2022-07-27 17:37:37,567 AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO 2022-07-27 17:37:37,567 Connection to Mysql established and cursor object created
+INFO 2022-07-27 17:37:37,567 Reading data from both the table into pandas
+INFO 2022-07-27 17:37:37,707 converting Mysql data into pandas dataframe
+INFO 2022-07-27 17:37:37,707        Dress_ID    Style    Price  ...  Decoration PatternType Recommendation
+0    1006032852     Sexy      Low  ...     ruffles      animal              1
+1    1212192089   Casual      Low  ...     ruffles      animal              0
+2    1190380701  vintage     High  ...                   print              0
+3     966005983    Brief  Average  ...  embroidary       print              1
+4     876339541     cute      Low  ...         bow         dot              0
+..          ...      ...      ...  ...         ...         ...            ...
+495   713391965   Casual      Low  ...                   solid              1
+496   722565148     Sexy      Low  ...                                      0
+497   532874347   Casual  Average  ...        lace       solid              1
+498   655464934   Casual  Average  ...    applique       print              1
+499   919930954   Casual      Low  ...        lace       solid              0
+
+[500 rows x 14 columns]
+INFO 2022-07-27 17:37:37,747        Dress_ID  29/8/2013  31/8/2013  ...  10-08-2010  10-10-2013  10-12-2013
+0    1006032852       2114       2274  ...        3923        3985        4048
+1    1212192089        151        275  ...        4024        4125        4277
+2    1190380701          6          7  ...          11          11          11
+3     966005983       1005       1128  ...        1955        1959        1963
+4     876339541        996       1175  ...        2614        2693        2736
+..          ...        ...        ...  ...         ...         ...         ...
+495   713391965          0          0  ...         382         384         285
+496   722565148          0          0  ...         913         919         931
+497   532874347          0          0  ...         546         535         520
+498   655464934          0          0  ...         249         249         248
+499   919930954          0          0  ...         668         674         680
+
+[500 rows x 24 columns]
+INFO 2022-07-27 17:37:37,777 converting pandas dataframe for attribute_data and dress_sales to json file
+INFO 2022-07-27 17:37:37,797 Connecting to mongodb atlas
+INFO 2022-07-27 17:37:38,635 Connection to mongodb atlas is successful
+INFO 2022-07-27 17:37:38,635 Creating database for online_store and collection for attribute_data and dress_sales
+INFO 2022-07-27 17:37:38,635 Collection and database creation successful
+INFO 2022-07-27 17:37:38,635 loading data into collection Attribute_data_mongo
+INFO 2022-07-27 17:37:40,601 loading data into collection Attribute_data_mongo successful
+INFO 2022-07-27 17:37:40,601 loading data into collection dress_sales_mongo
+INFO 2022-07-27 17:37:40,802 loading data into collection dress_sales_mongo successful

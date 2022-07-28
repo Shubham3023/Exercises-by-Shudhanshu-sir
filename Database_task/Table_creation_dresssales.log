@@ -1,0 +1,6 @@
+INFO 2022-07-28 23:22:21,880 Creating Mysql connection with pycharm and creating cursor object
+INFO 2022-07-28 23:22:21,932 Creating table 'Dress_sales_store'
+INFO 2022-07-28 23:22:21,964 Loading data into table 'Dress_sales_store' from csv file 'dresssales.csv'
+INFO 2022-07-28 23:22:21,995 Selecting all from Dress_sales_store table
+INFO 2022-07-28 23:22:22,010 Finding third highest most selling dress
+INFO 2022-07-28 23:22:22,010 sorting sum_dress_id list in descending order

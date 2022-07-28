@@ -1,0 +1,8 @@
+
+INFO 2022-07-28 16:08:29,023 Creating Mysql connection with pycharm and creating cursor object
+INFO 2022-07-28 16:08:29,050 Connection to Mysql established and cursor object created
+INFO 2022-07-28 16:08:29,050 Creating database 'online_store' and table 'Attribute_dataset_store'
+INFO 2022-07-28 16:08:29,069 Loading data into table 'Attribute_dataset_store' from csv file 'attributedata.csv'
+INFO 2022-07-28 16:08:29,082 No. of unique dresses is: 475
+INFO 2022-07-28 16:08:29,083 No. of dresses having recommendation Zero is : 290
+INFO 2022-07-28 16:08:29,084 attribute_dataset_store table and dress_sales_store table is joined successfully
