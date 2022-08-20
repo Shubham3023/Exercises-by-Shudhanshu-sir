@@ -1,0 +1,45 @@
+
+INFO 2022-08-21 00:41:56,276 Establishing connection with MongoDB
+INFO 2022-08-21 00:41:56,805 Connection to MongoDB successful
+INFO 2022-08-21 00:41:56,805 creating an object 'app' in class Flask
+INFO 2022-08-21 00:41:56,808 Creating api for MongoDB insert
+INFO 2022-08-21 00:41:56,830 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2022-08-21 00:41:56,830 [33mPress CTRL+C to quit[0m
+INFO 2022-08-21 00:42:15,437 127.0.0.1 - - [21/Aug/2022 00:42:15] "[31m[1mPOST /mongodb/insert HTTP/1.1[0m" 400 -
+INFO 2022-08-21 00:43:25,914 Data insertion successful
+INFO 2022-08-21 00:43:25,915 127.0.0.1 - - [21/Aug/2022 00:43:25] "POST /mongodb/insert HTTP/1.1" 200 -
+INFO 2022-08-21 00:46:52,567 Establishing connection with MongoDB
+INFO 2022-08-21 00:46:53,399 Connection to MongoDB successful
+INFO 2022-08-21 00:46:53,400 creating an object 'app' in class Flask
+INFO 2022-08-21 00:46:53,405 Creating api for MongoDB insert
+INFO 2022-08-21 00:46:53,407 Creating api for MongoDB update
+INFO 2022-08-21 00:46:53,591 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2022-08-21 00:46:53,592 [33mPress CTRL+C to quit[0m
+INFO 2022-08-21 00:47:14,992 Data updation successful
+INFO 2022-08-21 00:47:14,993 127.0.0.1 - - [21/Aug/2022 00:47:14] "POST /mongodb/update HTTP/1.1" 200 -
+INFO 2022-08-21 00:49:56,219 Establishing connection with MongoDB
+INFO 2022-08-21 00:49:57,404 Connection to MongoDB successful
+INFO 2022-08-21 00:49:57,404 creating an object 'app' in class Flask
+INFO 2022-08-21 00:49:57,410 Creating api for MongoDB insert
+INFO 2022-08-21 00:49:57,412 Creating api for MongoDB update
+INFO 2022-08-21 00:49:57,414 Creating api for MongoDB delete
+INFO 2022-08-21 00:49:57,777 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2022-08-21 00:49:57,778 [33mPress CTRL+C to quit[0m
+INFO 2022-08-21 00:50:26,072 Data deletion successful
+INFO 2022-08-21 00:50:26,074 127.0.0.1 - - [21/Aug/2022 00:50:26] "POST /mongodb/delete HTTP/1.1" 200 -
+INFO 2022-08-21 00:55:21,794 Establishing connection with MongoDB
+INFO 2022-08-21 00:55:22,614 Connection to MongoDB successful
+INFO 2022-08-21 00:55:22,615 creating an object 'app' in class Flask
+INFO 2022-08-21 00:55:22,621 Creating api for MongoDB insert
+INFO 2022-08-21 00:55:22,623 Creating api for MongoDB update
+INFO 2022-08-21 00:55:22,625 Creating api for MongoDB delete
+INFO 2022-08-21 00:55:22,627 Creating api for MongoDB fetch record
+INFO 2022-08-21 00:55:23,265 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2022-08-21 00:55:23,265 [33mPress CTRL+C to quit[0m
+INFO 2022-08-21 00:55:27,930 127.0.0.1 - - [21/Aug/2022 00:55:27] "[35m[1mPOST /mongodb/fetchdata HTTP/1.1[0m" 500 -
+INFO 2022-08-21 00:56:07,930 data fetched successfully from MongoDB
+INFO 2022-08-21 00:56:07,931 127.0.0.1 - - [21/Aug/2022 00:56:07] "POST /mongodb/fetchdata HTTP/1.1" 200 -

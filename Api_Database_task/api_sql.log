@@ -1,0 +1,37 @@
+INFO 2022-08-21 00:20:21,215 Establishing connection with MySQL
+INFO 2022-08-21 00:20:21,274 Connection to MySQL established successfully
+INFO 2022-08-21 00:20:21,274 creating an object 'app' in class Flask
+INFO 2022-08-21 00:20:21,277 Creating api for sql insert
+INFO 2022-08-21 00:20:21,279 Creating api for sql update
+INFO 2022-08-21 00:20:21,280 Creating api for sql delete
+INFO 2022-08-21 00:20:21,281 Creating api for fetching data from MySQL
+INFO 2022-08-21 00:20:21,295 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2022-08-21 00:20:21,295 [33mPress CTRL+C to quit[0m
+INFO 2022-08-21 00:20:48,139 inserted data successfully
+INFO 2022-08-21 00:20:48,141 127.0.0.1 - - [21/Aug/2022 00:20:48] "POST /sql/insert HTTP/1.1" 200 -
+INFO 2022-08-21 00:22:53,113 Updated data successfully
+INFO 2022-08-21 00:22:53,114 127.0.0.1 - - [21/Aug/2022 00:22:53] "POST /sql/update HTTP/1.1" 200 -
+INFO 2022-08-21 00:23:25,282 Establishing connection with MySQL
+INFO 2022-08-21 00:23:25,347 Connection to MySQL established successfully
+INFO 2022-08-21 00:23:25,347 creating an object 'app' in class Flask
+INFO 2022-08-21 00:23:25,350 Creating api for sql insert
+INFO 2022-08-21 00:23:25,351 Creating api for sql update
+INFO 2022-08-21 00:23:25,352 Creating api for sql delete
+INFO 2022-08-21 00:23:25,354 Creating api for fetching data from MySQL
+INFO 2022-08-21 00:23:25,366 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2022-08-21 00:23:25,366 [33mPress CTRL+C to quit[0m
+INFO 2022-08-21 00:23:28,180 Deleted data successfully
+INFO 2022-08-21 00:23:28,182 127.0.0.1 - - [21/Aug/2022 00:23:28] "POST /sql/delete HTTP/1.1" 200 -
+INFO 2022-08-21 00:23:59,555 Establishing connection with MySQL
+INFO 2022-08-21 00:23:59,617 Connection to MySQL established successfully
+INFO 2022-08-21 00:23:59,617 creating an object 'app' in class Flask
+INFO 2022-08-21 00:23:59,622 Creating api for sql insert
+INFO 2022-08-21 00:23:59,624 Creating api for sql update
+INFO 2022-08-21 00:23:59,626 Creating api for sql delete
+INFO 2022-08-21 00:23:59,627 Creating api for fetching data from MySQL
+INFO 2022-08-21 00:23:59,639 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO 2022-08-21 00:23:59,640 [33mPress CTRL+C to quit[0m
+INFO 2022-08-21 00:24:02,251 127.0.0.1 - - [21/Aug/2022 00:24:02] "POST /sql/fetchdata HTTP/1.1" 200 -
